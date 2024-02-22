@@ -6,7 +6,7 @@
 
   <groupId>SINGHINDUSTRY</groupId>
   <artifactId>IOCProj01-SetterInjection</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>IOCProj01-SetterInjection</name>
   <!-- FIXME change it to the project's website -->
